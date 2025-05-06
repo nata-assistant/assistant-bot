@@ -3,7 +3,7 @@ import requests
 import os
 
 # --- ТВОЙ TELEGRAM ТОКЕН ---
-TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "ТВОЙ_ТОКЕН_СЮДА")  # замени ТВОЙ_ТОКЕН_СЮДА на настоящий
+TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "7740685981:AAHhWvD4xRswFUCtWe8v6hS9mdVSgFOT2QY")  # замени ТВОЙ_ТОКЕН_СЮДА на настоящий
 
 # --- URL до LLM-сервера (например, HuggingFace или Render API) ---
 LLM_API_URL = os.getenv("LLM_API_URL", "https://example.com/api/chat")  # сюда вставим позже
