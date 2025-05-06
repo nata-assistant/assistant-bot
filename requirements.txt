@@ -1,2 +1,6 @@
-pyTelegramBotAPI
-openai
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+python-telegram-bot==13.15
+requests
